@@ -1,20 +1,14 @@
-# Welcome to ZipBot.ai!
+# Welcome to the ZipBot.ai GitHub page!
 
-ZipBot.ai offers a suite of custom bots designed to cater to various organizational needs, enhancing efficiency and providing targeted solutions. Explore our offerings:
+**ZipBot.ai** offers a suite of custom bots designed to cater to various organizational needs, enhancing efficiency and providing targeted solutions.
 
-## Helper Bot
-- Tailored for organizations aiming to leverage their documentation through an accessible chat bot.
+## Currently in Beta
+- **Zippy, the Assistant Bot** - Your personal assistant, evolving from the existing Jarvis platform to serve you better.
 
-## Regulatory Bot
-- Ideal for entities navigating industry regulations. Offers access to essential regulatory documents, with premium options for licensed standards like ISO or IEC.
+## Offerings Coming Soon:  
+- **Helper, the Q&A Bot** - Tailored for organizations aiming to leverage their documentation through an accessible chat bot.
+- **Reggie, the Regulatory Bot** - Ideal for entities navigating industry regulations. Offers access to essential regulatory documents, with premium options for licensed standards like ISO or IEC.
+- **Link, the Task Bot** - Connects corporate software APIs to automate processes, offering both pre-defined and customizable workflows.
+- **Scholar, the Research Assistant** - Aids in research and academic endeavors, making information gathering a breeze.
 
-## Task Bot
-- Connects corporate software APIs to automate processes, offering both pre-defined and customizable workflows.
-
-## Assistant Bot
-- Your personal assistant, evolving from the existing Jarvis platform to serve you better.
-
-## Cheaty, the Research Assistant
-- Aids in research and academic endeavors, making information gathering a breeze.
-
-For more details, visit [ZipBot.ai](https://zipbot.ai).
+**Join the beta today!** Sign up at [ZipBot.ai](https://zipbot.ai/)
